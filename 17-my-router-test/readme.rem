@@ -1,0 +1,25 @@
+
+in this test we are going to see how the router workes.
+
+
+composer .. we controll pakages . self made or from online.
+
+
+
+MVC
+
+
+model 
+		make SQL query esay .
+
+
+view
+		php files containing html.
+
+
+
+controll
+		we use router to controll user flow.
+
+
+

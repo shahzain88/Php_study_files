@@ -1,0 +1,16 @@
+{
+    "name": "shahzain/17-my-router-test",
+    "autoload": {
+        "psr-4": {
+            "Shahzain\\17MyRouterTest\\": "src/",
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "shahzain88",
+            "email": "itit080itit@gmail.com"
+        }
+    ],
+    "require": {}
+}
